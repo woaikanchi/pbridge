@@ -1,1 +1,5 @@
-newdir
+pbridge_config
+pbridge_files
+pbridge_tmp
+bridgeenv
+*.pyc
